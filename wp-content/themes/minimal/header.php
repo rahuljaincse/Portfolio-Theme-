@@ -38,7 +38,7 @@
 	
 	
 	<header class="main-header align-center section-content">
-            <a href="<?php echo home_url(); ?>" class="logo"><img src="<?php print IMAGES ;?>logo.png" alt="<?php  bloginfo ('name');?>" /></a>
+            <a href="<?php echo home_url(); ?>" class="logo"><img src="<?php print IMAGES ;?>\logo.png" alt="<?php  bloginfo ('name');?>" /></a>
 		
      <nav class="main-nav">
           <?php 
