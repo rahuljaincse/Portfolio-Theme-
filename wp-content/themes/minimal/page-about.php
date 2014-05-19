@@ -14,9 +14,11 @@
 				<h2>About Me</h2>
                                 
 				
-				<p>I’m a web designer based in India. I create clean websites, love Apple products and I’m a big fan of trance music.</p>
+				<p>I’m a web designer based in India. I create clean websites,
+				love Apple products and I’m a big fan of trance music.</p>
                                 
-				<p>Wanna get in touch? Do a quick scroll to the bottom of the page. <a href="#contact-info">It’s all there</a> :)</p>
+				<p>Wanna get in touch? 
+				Do a quick scroll to the bottom of the page. <a href="#contact-info">It’s all there</a> :)</p>
 				
 				<hr class="alt" />
                                 
